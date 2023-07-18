@@ -11,8 +11,19 @@
         padding-top: 10px;
         
     }
-    
-    
+    .banner-container{
+        flex-direction: column;
+        flex-direction: column-reverse;
+        
+    }
+    .banner-right{
+        width: 100%;
+        height: 100%;
+    }
+    .banner-left{
+        width: 100%;
+        height: 100%;
+    }
 }
 
 
@@ -30,4 +41,5 @@
         padding-top: 10px;
         
     }
+
 }
