@@ -174,6 +174,11 @@ color: #534C64;
     width: 100%;
     height: 100%;
 }
+.game-img:hover{
+    cursor: pointer;
+    border: 3px solid #FF42A5;
+    border-radius: 15px;
+}
 
 /* play onilne game */
 .play-game-container{

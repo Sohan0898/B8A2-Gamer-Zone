@@ -96,8 +96,8 @@
 
          /* button */
 
-        .gaming-btn{
-            
+         .gaming-btn{
+            flex-wrap: nowrap;
         }
 
 /* footer */
