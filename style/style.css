@@ -72,7 +72,8 @@ font-weight: 700;
 
 }
 .goat{
- 
+    width: auto;
+    height: auto;
 padding-left: 140px;
 padding-right: 120px;
 padding-top: 80px;
@@ -94,12 +95,12 @@ padding-top: 80px;
     height: 100%;
 }
 .banner-headline{
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-weight: 600;
     text-transform: uppercase;
 }
 .banner-title{
-    font-size: 5.0rem;
+    font-size: 4.5rem;
     font-weight: 800;
     }
     .banner-info{
@@ -123,7 +124,7 @@ padding-top: 80px;
     }
     .btn-1{
         background-color: rgba(78, 197, 247, 1);
-        margin-left: 20px;
+        margin-left: 10px;
     }
 /* online game */
 
@@ -143,12 +144,12 @@ font-weight: 500;
 line-height: 30px; /* 150% */
 color: #534C64;
 }
-.onile-game-container{
+.onilne-game-container{
 
     padding: 40px 0px;
     
 }
-.online-game-title{
+.online-game-title-main{
     text-align: center;
     line-height: 1.6;
 }
