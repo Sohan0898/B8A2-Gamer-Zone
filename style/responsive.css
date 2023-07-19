@@ -61,8 +61,25 @@
           padding: 0px 10px 10px 10px;
         
          }
-
-        
+/* footer */
+.footer-menu{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-bottom: 40px;
+    gap: 30px;
+}
+.footer-icon{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding:0px 10px;
+    gap: 50px;
+    
+}
+.footer-policy{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
 }
 
 
@@ -115,3 +132,7 @@
         padding: 40px 140px;
     }
    }
+/* footer */
+.footer-container{
+    padding: 30px;
+}
