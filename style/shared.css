@@ -26,3 +26,21 @@ body{
 .text-white{
     color: #FFF;
 }
+
+.btn-primary{
+    border: none;
+    border-radius: 48px;
+    padding: 16px 32px;
+    background-color: #FF42A5;
+    color: #FFF;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn-primary:hover{
+    cursor: pointer;
+    background-color: #0B0223;
+    color: #FFF;
+}
