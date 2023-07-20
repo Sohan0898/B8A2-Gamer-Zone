@@ -58,11 +58,13 @@ font-weight: 700;
     align-items: center;
     height: 500px;
     
+    padding-right: 140px;
    
     
 }
-
+    
 .banner-left{
+    
     background-image: url('../images/Group\ 14.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -72,23 +74,16 @@ font-weight: 700;
 
 }
 .goat{
-    width: auto;
-    height: auto;
-padding-left: 140px;
-padding-right: 120px;
-padding-top: 80px;
+    padding-left: 140px;
+    padding-top: 80px;
+
 }
 
 .banner-right{
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-        padding-right: 140px;
+        width: 50%;
+        height: 100%;
         padding-left: 30px;
-    width: 50%;
-    height: 100%;
     
-
 }
 .banner-img{
     width:100%;
@@ -113,10 +108,23 @@ padding-top: 80px;
         
     }
 
+    .btn-primary{
+        border: none;
+        border-radius: 48px;
+        padding: 16px 32px;
+        background-color: #FF42A5;
+        color: #FFF;
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
     .btn-1{
         background-color: rgba(78, 197, 247, 1);
         margin-left: 10px;
     }
+    
+   
 
     /* we are gamer */
     .we-are-gamer{
